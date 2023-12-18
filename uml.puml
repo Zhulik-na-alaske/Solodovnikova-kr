@@ -1,0 +1,34 @@
+@startuml
+class Main {
++ {static} void main(String[])
+}
+class Branch {
+- String name
+- String description
+- List<Choice> choices
++ void addChoice(Choice)
++ String getName()
++ String getDescription()
++ List<Choice> getChoices()
+}
+class Choice {
+- String text
+- String nextBranch
++ String getText()
++ String getNextBranch()
+}
+class Scenario {
+- String name
+- List<Branch> branches
++ void addBranch(Branch)
++ String getName()
++ List<Branch> getBranches()
+}
+class ScenarioManager {
+- Map<String,Scenario> scenarios
++ void loadScenarios(String)
+- Scenario loadScenarioFromFile(File)
++ void displayScenarios()
++ void runScenario(String,Scanner)
+}
+@enduml

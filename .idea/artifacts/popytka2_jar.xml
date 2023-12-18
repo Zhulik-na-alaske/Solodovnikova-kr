@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="popytka2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/popytka2_jar</output-path>
+    <root id="archive" name="popytka2.jar">
+      <element id="module-output" name="popytka2" />
+    </root>
+  </artifact>
+</component>

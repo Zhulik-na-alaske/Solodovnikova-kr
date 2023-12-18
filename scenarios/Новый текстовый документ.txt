@@ -1,0 +1,39 @@
+primer
+Branch 1: This is the first branch
+Choice 1: Branch 2
+Choice 2: Branch 3
+-
+Branch 2: This is the second branch
+Choice 1: Branch 3
+Choice 2: Branch 4
+-
+Branch 3: This is the third branch
+Choice 1: Branch 4
+Choice 2: Branch 5
+-
+Branch 4: This is the fourth branch
+Choice 1: Branch 5
+Choice 2: Branch 6
+-
+Branch 5: This is the fifth branch
+Choice 1: Branch 6
+Choice 2: Branch 7
+-
+Branch 6: This is the sixth branch
+Choice 1: Branch 7
+Choice 2: Branch 8
+-
+Branch 7: This is the seventh branch
+Choice 1: Branch 8
+Choice 2: Branch 9
+-
+Branch 8: This is the eighth branch
+Choice 1: Branch 9
+Choice 2: Branch 10
+-
+Branch 9: This is the ninth branch
+Choice 1: Branch 10
+Choice 2: Branch 10
+-
+Branch 10: This is the final branch
+вы закончили игру: final
